@@ -5,7 +5,7 @@ Render rich text entered by non technical users as Markdown so it can be used as
 
 # Prior art
 
-This is a modification of [delta_html]https://github.com/ftes/delta_html by Fredrik Teschke
+This is a modification of [delta_html](https://github.com/ftes/delta_html) by Fredrik Teschke
 
 ## Installation
 
