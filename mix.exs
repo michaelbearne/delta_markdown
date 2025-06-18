@@ -43,7 +43,7 @@ defmodule DeltaMarkdown.MixProject do
 
   defp docs do
     [
-      main: "DeltaHtml",
+      main: "DeltaMarkdown",
       extras: [
         "CHANGELOG.md": [title: "Changelog"]
       ]
