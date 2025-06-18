@@ -9,9 +9,6 @@ This is a modification of [delta_html](https://github.com/ftes/delta_html) by Fr
 
 ## Installation
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `delta_markdown` to your list of dependencies in `mix.exs`:
-
 ```elixir
 def deps do
   [
